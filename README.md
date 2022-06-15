@@ -1,10 +1,10 @@
-# 📝 Bilgilendirme
+# 📝 Information
 
-- Bot Slash Command İle Çalışır.
-- Veritabanı Olarak Mongoose Kullanılmıştır.
-- Bot'un Discord.js Sürümü V13'dür.
-- Proje 30 Stara Ulaşdığında Kaynak kodları paylaşılacaktır.
+- Bot, works with Slash Command.
+- Mongoose is used as database.
+- The Bot's Discord.js Version is V13.
+- Source Codes will be shared when the project reaches 30 Stars.
 
-# 📷 Görseller
+# 📷 Images
 
-YAKINDA EKLENİCEK
+SOON...
