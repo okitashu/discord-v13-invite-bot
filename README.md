@@ -1,4 +1,4 @@
-# 🎄 Bilgilendirme
+# 📝 Bilgilendirme
 
 - Bot Slash Command İle Çalışır.
 - Veritabanı Olarak Mongoose Kullanılmıştır.
