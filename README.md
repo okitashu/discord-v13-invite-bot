@@ -1,6 +1,6 @@
 # 🎄 Bilgilendirme
 
-v13 invite botu işte
+30 star gelince projeyi upload edicem.
 
 # 📷 Görseller
 
