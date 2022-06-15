@@ -1,1 +1,6 @@
-# discord-v13-invite-bot
+🎄 Bilgilendirme
+v13 invite botu işte
+
+📷 Görseller
+
+YAKINDA EKLENİCEK
