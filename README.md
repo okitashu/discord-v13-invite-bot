@@ -1,6 +1,7 @@
-🎄 Bilgilendirme
+#🎄 Bilgilendirme
+
 v13 invite botu işte
 
-📷 Görseller
+#📷 Görseller
 
 YAKINDA EKLENİCEK
